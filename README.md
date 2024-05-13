@@ -1,7 +1,4 @@
-# Disaster-Response-Project
-this is for the second project - Disaster Response 
-you'll apply these skills to analyze disaster data from Appen(opens in a new tab) (formerly Figure 8) to build a model for an API that classifies disaster messages.
-In the Project Workspace, you'll find a data set containing real messages that were sent during disaster events
+
 ### Table of Contents
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
